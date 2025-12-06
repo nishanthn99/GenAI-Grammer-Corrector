@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.946.0",
+    "@aws-sdk/client-s3": "^3.946.0",
+    "amazon-cognito-identity-js": "^6.3.16",
     "bcryptjs": "^3.0.3",
     "next": "16.0.7",
     "next-auth": "^4.24.13",
